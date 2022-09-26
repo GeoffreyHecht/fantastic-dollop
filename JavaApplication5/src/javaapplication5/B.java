@@ -8,6 +8,6 @@ package javaapplication5;
  *
  * @author Geoffrey Hecht <ghecht@inf.udec.cl>
  */
-public class A {
-    private int val;
+public class B {
+    
 }
