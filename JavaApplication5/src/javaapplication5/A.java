@@ -9,5 +9,6 @@ package javaapplication5;
  * @author Geoffrey Hecht <ghecht@inf.udec.cl>
  */
 public class A {
-    
+    private int val = 15;
+    private int b;
 }
